@@ -1,3 +1,5 @@
+Fully functional REPL and caching system for the PokeAPI
+
 Ideas for Extending the Project
 
 Implement the repl Node module
